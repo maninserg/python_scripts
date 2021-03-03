@@ -1,6 +1,6 @@
 #!/usr/bin/python3.6
 """
-The script for the renaming of files and directories in the current directory
+The script renames files and directories in the current directory
 to the POSIX standart
 """
 

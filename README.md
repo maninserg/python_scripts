@@ -1,2 +1,5 @@
 # python_scripts
-Different python scripts for the deciding of practical tasks
+
+**About:** Different python scripts for the deciding of practical tasks
+
+<hr>

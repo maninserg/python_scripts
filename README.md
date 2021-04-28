@@ -5,11 +5,11 @@ Different python scripts for the deciding of practical tasks
 
 ## Description
 
-- rename_by_masks.py - rename files in the current directory by a choiced mask
+- **rename_by_masks.py** - rename files in the current directory by a choiced mask
 
-- rename_from_time.py - add serial numbers to a start of file names by a modification time in the current directory
+- **rename_from_time.py** - add serial numbers to a start of file names by a modification time in the current directory
 
-- rename_to_posix.py - rename files in the current directory to the posix standart
+- **rename_to_posix.py** - rename files in the current directory to the posix standart
 
 
 ## Installation for Linux*:

@@ -3,6 +3,13 @@
 Different python scripts for the deciding of practical tasks
 
 
+## Description
+
+- rename_by_masks.py
+- rename_from_time.py
+- rename_to_posix.py
+
+
 ## Installation for Linux*:
 
 1. Clone the repository (or download the zip file and extract it):
